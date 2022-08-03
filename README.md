@@ -1,3 +1,2 @@
 # 2022_Interface_Programming_Exhibition
-## Theme
-학교 학식 정보 사이트 만들기
+스터디 및 프로젝트에 필요한 코드 정리
