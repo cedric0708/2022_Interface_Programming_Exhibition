@@ -4,7 +4,7 @@ const app = express();
 const port = process.env.PORT || 3001; //포트번호 지정
 
 const router = express.Router();
-const indexrouter = require('./router.js');
+const indexrouter = require('./router/router.js');
 
 const path = require("path");//경로 스트링 합칠 때 필요
 
