@@ -1,0 +1,6 @@
+<p>문제 : {{quiz}}</p>
+<form action="/quiz/answer" method="POST">
+    <input type="text" name="quiz_answer" value="{{answer}}" style="display:none;">
+    <span>정답 : </span><input type="text" placeholder="정답" name="user_answer">
+    <button type="submit">Submit</button>
+</form>
